@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+private/
+artifacts/
+*.pem
+*.key
+*.cer
+*.p12
+*.pfx
+*.log
+.DS_Store
+
